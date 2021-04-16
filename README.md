@@ -40,7 +40,9 @@ WHEN I reset the game
 THEN the game is reset 
 AND I can play another game
 ```
----
+
+## ⛰️ 🧻 ✂️ 🦎 🖖
+
 ### Optional
 extend the rules to include the `lizard` and `spock` gestures
 
