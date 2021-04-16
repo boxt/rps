@@ -2,12 +2,12 @@
 
 # Rock, Paper, Scissors Challenge
 
-We would like you to implement a simple game of rock, paper, scissors against a computer that select's opposing gestures at random. The user needs to be informed of the result of that game and then able to reset the game to play again.
+We would like you to implement a simple game of rock, paper, scissors against a computer that selects opposing gestures at random. The user needs to be informed of the result of that game and then able to reset the game to play again.
 
 
-*This game should play out entirely on the frontend - no need to had any sort of backend or external API.*
+*This game should play out entirely on the frontend - no need to add any sort of backend or external API.*
 
-*Please include tests for your code and a brief description of how you would continue you develop this application if you had more time to spend on it.*
+*Please include tests for your code and a brief description of how you would continue to develop this application if you had more time to spend on it.*
 
 ## ⛰️ 🧻 ✂️ 
 
